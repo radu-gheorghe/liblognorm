@@ -66,7 +66,7 @@ Both can be downloaded `here
 After downloading these examples you can use liblognorm. Go to 
 liblognorm/src and use the command below::
 
-    $ ./lognormalize -r messages.sampdb -o json <messages.log
+    $ ./lognormalizer -r messages.sampdb -o json <messages.log
 
 where::
     
